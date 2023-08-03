@@ -34,8 +34,8 @@ Each row includes the article title, text, label, and publication date[2].
 
 ## Methodology
 
-![Untitled presentation (1)](https://github.com/mosheragomaa/fake-news-detection/assets/76535465/d6955d96-7e90-4a46-969e-877e00a1e869)
 
+![Untitled presentation (1)](https://github.com/mosheragomaa/fake-news-detection/assets/76535465/1efac012-5ad3-436e-b165-daff6baa5205)
 
 ## References
 [1] [Jeffrey Huang 2020 J. Phys.: Conf. Ser. 1693 012158](https://iopscience.iop.org/article/10.1088/1742-6596/1693/1/012158/pdf)
