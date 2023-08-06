@@ -42,4 +42,4 @@ Each row includes the article title, text, label, and publication date[2].
 
 [Shalini Pandey et al 2022 J. Phys.: Conf. Ser. 2161 012027](https://iopscience.iop.org/article/10.1088/1742-6596/2161/1/012027/pdf)
 
-[ISOT dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+[2] [ISOT dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
